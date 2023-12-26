@@ -1,4 +1,4 @@
-# Maket Travel Page
+#Travel Page
 This web-page was created with using **HTML**, **CSS**, **Javascript** for demonstrate website design skills.
 You can see it at the attached link on GitHub Pages.
 
